@@ -12,7 +12,6 @@ from lexicon import AliasDict
 from app.help import help_msg
 from app.models import Verses
 from app.deutertocanonical import DEUT_SET, get_table
-from app.keep_alive import keep_alive
 
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger()
@@ -311,5 +310,4 @@ async def wersy(ctx: interactions.CommandContext, ksiega: str, rozdzial: int, we
                        f"a podane zostało: **`{wersy}`**.")
 
 
-keep_alive()
 bot.start()
