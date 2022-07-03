@@ -1,0 +1,200 @@
+{
+   "Gen": {
+      "aliases": "Genesis, Rdz, Rodzaju, Rodzaj, Rodz"
+   },
+   "Exo": {
+      "aliases": "Exodus, Exod, Wj, Wyjscia, Wyjścia, Wyj"
+   },
+   "Lev": {
+      "aliases": "Leviticus, Levi, Kpł, Kapłan, Kaplan, Kapłańska"
+   },
+   "Num": {
+      "aliases": "Numbers, Lb, Licz, Liczb"
+   },
+   "Deu": {
+      "aliases": "Deut, Deuteronomy, Pwt, PwtPrawa, Prawa Pwt"
+   },
+   "Jos": {
+      "aliases": "Josh, Joshua, Jsh, Joz, Jozue, Jozuego"
+   },
+   "Jdg": {
+      "aliases": "Judg, Jdgs, Judges, Sdz, Sedziow, Sędziów, Sedz"
+   },
+   "Rut": {
+      "aliases": "Ruth, Rth, Rt"
+   },
+   "1Sa": {
+      "aliases": "1 Samuel, 1Samuel, I Samuel, 1st Samuel, First Samuel, 1 Sam, 1Sam, I Sam, 1st Sam, First Sam, 1 Sa, I Sa, 1st Sa, First Sa, 1 Sm, 1Sm, I Sm, 1st Sm, First Sm"
+   },
+   "2Sa": {
+      "aliases": "2 Samuel, 2Samuel, II Samuel, 2nd Samuel, Second Samuel, 2 Sam, 2Sam, II Sam, 2nd Sam, Second Sam, 2 Sa, II Sa, 2nd Sa, Second Sa, 2 Sm, 2Sm, II Sm, 2nd Sm, Second Sm"
+   },
+   "1Ki": {
+      "aliases": "1 Kings, 1Kings, I Kings, 1st Kings, First Kings, 1 Kgs, 1Kgs, I Kgs, 1st Kgs, First Kgs, 1 Kin, 1Kin, I Kin, 1st Kin, First Kin, 1 Ki, I Ki, 1st Ki, First Ki, 1 Krl, 1 Krol, 1 Król, 1 Królewska"
+   },
+   "2Ki": {
+      "aliases": "2 Kings, 2Kings, II Kings, 2nd Kings, Second Kings, 2 Kgs, 2Kgs, II Kgs, 2nd Kgs, Second Kgs, 2 Kin, 2Kin, II Kin, 2nd Kin, Second Kin, 2 Ki, I Ki, 2nd Ki, Second Ki, 2 Krl, 2 Krol, 2 Król, 2 Królewska"
+   },
+   "1Ch": {
+      "aliases": "1 Chronicles, 1Chronicles, I Chronicles, 1st Chronicles, First Chronicles, 1 Chron, 1Chron, I Chron, 1st Chron, First Chron, 1 Chro, 1Chro, I Chro, 1st Chro, First Chro, 1 Chr, 1Chr, I Chr, 1st Chr, First Chr, 1 Ch, I Ch, 1st Ch, First Ch, 1 Krn, 1Krn, 1 Kron, 1Kron, 1 Kronik"
+   },
+   "2Ch": {
+      "aliases": "2 Chronicles, 2Chronicles, II Chronicles, 2nd Chronicles, Second Chronicles, 2 Chron, 2Chron, II Chron, 2nd Chron, Second Chron, 2 Chro, 2Chro, II Chro, 2nd Chro, Second Chro, 2 Chr, 2Chr, II Chr, 2nd Chr, Second Chr, 2 Ch, II Ch, 2nd Ch, Second Ch, 2 Krn, 2Krn, 2 Kron, 2Kron, 2 Kronik"
+   },
+   "Ezr": {
+      "aliases": "Ezra, Ezd, Ezdr, Ezdrasz, Ezdrasza"
+   },
+   "Neh": {
+      "aliases": "Nehemiah, Ne, Nehemiasz, Nehemiasza"
+   },
+   "Est": {
+      "aliases": "Esth, Es, Estera, Estery, Estr"
+   },
+   "Job": {
+      "aliases": "Hi, Hiob, Hioba, Joba"
+   },
+   "Psa": {
+      "aliases": "Psalms, Psalm, Pslm, Psm, Pss, Ps, Psalmy"
+   },
+   "Pro": {
+      "aliases": "Proverbs, Prov, Prv, Prz, Przys, Przysłów, Przyslow, Przyp, Przypowieści, Salomon"
+   },
+   "Ecc": {
+      "aliases": "Ecclesiastes, Eccles, Eccle, Eccl, Ec, Qoh, Koh, Kh, Kohelet, Kaz, Kaznodziei, Kazn"
+   },
+   "Sng": {
+      "aliases": "Song of Songs, Song of Solomon, Song of Sol, Canticle of Canticles, Canticles, Cant, SOS, Pnp, pnp, Pieśni, Piesni"
+   },
+   "Isa": {
+      "aliases": "Isaiah, Iza, Izajasz, Iz, Izaja"
+   },
+   "Jer": {
+      "aliases": "Jeremiah, Jr, Jeremiasz, Jeremiasza"
+   },
+   "Lam": {
+      "aliases": "Lamentations of Jeremiah, Lamentations, Lm, Lamentacje"
+   },
+   "Ezk": {
+      "aliases": "Ezekiel, Ezek, Eze, Ez, Ezechiel"
+   },
+   "Dan": {
+      "aliases": "Daniel, Dn, Daniela"
+   },
+   "Hos": {
+      "aliases": "Hosea, Oz, Ozeasz"
+   },
+   "Jol": {
+      "aliases": "Joel, Joe, Jl, Joela"
+   },
+   "Amo": {
+      "aliases": "Amos, Amosa, Am"
+   },
+   "Oba": {
+      "aliases": "Obadiah, Abdiasz, Abdiasza, Obad, Ab, Abd"
+   },
+   "Jon": {
+      "aliases": "Jonah, Jnh, Jonasz, Jonasza"
+   },
+   "Mic": {
+      "aliases": "Micah, Micheasz, Micheasza, Mich"
+   },
+   "Nam": {
+      "aliases": "Nahum, Nahuma, Na, Nah"
+   },
+   "Hab": {
+      "aliases": "Habakkuk, Ha, Habakuk"
+   },
+   "Zep": {
+      "aliases": "Zephaniah, Zeph, Sofoniasz, Sofoniasza, So, Sof"
+   },
+   "Hag": {
+      "aliases": "Haggai, Aggeusz, Aggeusza, Agg, Ag"
+   },
+   "Zec": {
+      "aliases": "Zechariah, Zech, Zach, Za, Zac, Zachariasz, Zahariasza"
+   },
+   "Mal": {
+      "aliases": "Malachi, Malachiasz, Malachiasza, Ml"
+   },
+   "Mat": {
+      "aliases": "Matthew, Matt, Mateusz, Mateusza, Mt"
+   },
+   "Mrk": {
+      "aliases": "Mark, Mar, Mk, Marek, Marka"
+   },
+   "Luk": {
+      "aliases": "Luke, Łukasz, Lk, Łk, Łuk, Łukasza"
+   },
+   "Jhn": {
+      "aliases": "John, Joh,  Jo, Jn, J, Jan, Jana"
+   },
+   "Act": {
+      "aliases": "Acts of the Apostles, Acts, Dzieje Apostolskie, Dzieje, Dz"
+   },
+   "Rom": {
+      "aliases": "Romans, Rzymian, Rzymianie, Rz, List do Rzymian"
+   },
+   "1Co": {
+      "aliases": "1Corinthians, I Corinthians, 1st Corinthians, First Corinthians, 1 Cor, 1Cor, I Cor, 1st Cor, First Cor, 1 Co, 1 Corinthians, I Co, 1st Co, First Co, 1Kor, 1 Kor, 1 Koryntianie, 1Krt, 1Krnt, 1 Krt, 1 Krnt"
+   },
+   "2Co": {
+      "aliases": "2Corinthians, II Corinthians, 2nd Corinthians, Second Corinthians, 2 Cor, 2Cor, II Cor, 2nd Cor, Second Cor, 2 Co, 2 Corinthians, II Co, 2nd Co, Second Co, 2Kor, 2 Kor, 2 Koryntianie, 2Krt, 2Krnt, 2 Krt, 2 Krnt"
+   },
+   "Gal": {
+      "aliases": "Galatians, Ga,  Galatów, Galacjan"
+   },
+   "Eph": {
+      "aliases": "Ephes, Ephesians, Ef, Efez, Efezjan, Efe"
+   },
+   "Php": {
+      "aliases": "Phil, Philippians, Flp, Filipian, Filipianie, Fpl, Fp"
+   },
+   "Col": {
+      "aliases": "Colossians, Kol, Kolosan, Kolosanie, Kolos"
+   },
+   "1Th": {
+      "aliases": "1 Thessalonians, 1Thessalonians, I Thessalonians, 1st Thessalonians, First Thessalonians, 1 Thess, 1Thess, I Thess, 1st Thess, First Thess, 1 Thes, 1Thes, I Thes, 1st Thes, First Thes, 1 Ths, 1Ths, I Ths, 1st Ths, First Ths, 1Tes, 1 Tes, 1 Tesal, 1 Tesaloniczan"
+   },
+   "2Th": {
+      "aliases": "2 Thessalonians, 2Thessalonians, II Thessalonians, 2nd Thessalonians, Second Thessalonians, 2 Thess, 2Thess, II Thess, 2nd Thess, Second Thess, 2 Thes, 2Thes, II Thes, 2nd Thes, Second Thes, 2 Ths, 2Ths, II Ths, 2nd Ths, Second Ths, 2Tes, 2 Tes, 2 Tesal, 2 Tesaloniczan"
+   },
+   "1Ti": {
+      "aliases": "1 Timothy, 1Timothy, I Timothy, 1st Timothy, First Timothy, 1 Tim, 1Tim, I Tim, 1st Tim, First Tim, 1Tm, 1 Tm, 1 Ti, I Ti, 1st Ti, First Ti, Tymoteusz1, Tymoteusz 1, 1 Tymoteusz, 1Tymoteusz"
+   },
+   "2Ti": {
+      "aliases": "2 Timothy, 2Timothy, II Timothy, 2nd Timothy, Second Timothy, 2 Tim, 2Tim, II Tim, 2nd Tim, Second Tim, 2Tm, 2 Tm, 2 Ti, II Ti, 2nd Ti, Second Ti, Tymoteusz2, Tymoteusz 2, 2 Tymoteusz, 2Tymoteusz"
+   },
+   "Tit": {
+      "aliases": "Titus, Tytus, Tytusa, Tyt, Tt, Tts"
+   },
+   "Phm": {
+      "aliases": "Philemon, Philem, Phile, Phlm, Phi, Filemon, Fil, File, Flm"
+   },
+   "Heb": {
+      "aliases": "Hebrews, Hbr, Hb, Hebr, Hebra, Hebrajczyków"
+   },
+   "Jas": {
+      "aliases": "James, Jakuba, Jk, Jak, Jakub"
+   },
+   "1Pe": {
+      "aliases": "1 Peter, 1Peter, I Peter, 1st Peter, First Peter, 1 Pet, 1Pet, I Pet, 1st Pet, First Pet, 1 Pe, I Pe, 1st Pe, First Pe, 1 Pt, 1Pt, I Pt, 1st Pt, First Pt, 1P, 1Piotr, 1 Piotr, 1 P, 1Piotra, 1 Piotra"
+   },
+   "2Pe": {
+      "aliases": "2Peter, II Peter, 2nd Peter, Second Peter, 2 Pet, 2Pet, II Pet, 2nd Pet, Second Pet, 2 Pe, II Pe, 2nd Pe, Second Pe, 2 Pt, 2Pt, II Pt, 2nd Pt, Second Pt, 2P, 2Piotr, 2 Piotr, 2 P, 2Piotra, 2 Piotra"
+   },
+   "1Jn": {
+      "aliases": "1John, I John, 1st John, First John, 1 Joh, 1Joh, I Joh, 1st Joh, First Joh, 1 Jhn, 1Jhn, I Jhn, 1st Jhn, First Jhn, 1 Jo, 1Jo, I Jo, 1st Jo, First Jo, 1 Jn, I Jn, 1st Jn, First Jn, 1J, 1 J, 1Jan, 1 Jan, 1 Jana, 1Jana"
+   },
+   "2Jn": {
+      "aliases": "2John, II John, 2nd John, Second John, 2 Joh, 2Joh, II Joh, 2nd Joh, Second Joh, 2 Jhn, 2Jhn, II Jhn, 2nd Jhn, Second Jhn, 2 Jo, 2Jo, II Jo, 2nd Jo, Second Jo, 2 Jn, II Jn, 2nd Jn, Second Jn, 2J, 2 J, 2Jan, 2 Jan, 2 Jana, 2Jana"
+   },
+   "3Jn": {
+      "aliases": "3John, III John, 3rd John, Third John, 3 Joh, 3Joh, III Joh, 3rd Joh, Third Joh, 3 Jhn, 3Jhn, III Jhn, 3rd Jhn, Third Jhn, 3 Jo, 3Jo, III Jo, 3rd Jo, Third Jo, 3 Jn, III Jn, 3rd Jn, Third Jn, 3J, 3 J, 3Jan, 3 Jan, 3 Jana, 3Jana"
+   },
+   "Jud": {
+      "aliases": "Jude, Judy, Ju, Juda"
+   },
+   "Rev": {
+      "aliases": "Revelation, Revelation of Jesus Christ, Revelation of John, Revelation of St. John the Divine, Rev of Jesus Christ, Rev of John, Rev of St. John the Divine, Objawienie, Apokalipsa, Ap, Apo, Obj"
+   }
+}
