@@ -25,11 +25,11 @@ LIT = "Literal Standard Version"
 CKB = "Czech Kralická Bible 1613"
 
 # load available translations
-with open("../data/translations.json", encoding="utf-8") as trans:
+with open("/app/data/translations.json", encoding="utf-8") as trans:
     translations = json.load(trans)
 
 # load available references
-with open("../data/references.json", encoding="utf-8") as refs:
+with open("/app/data/references.json", encoding="utf-8") as refs:
     refs_data = json.load(refs)
 
 books_and_chapters = httpx.get("https://api.scripture.api.bible/v1/bibles/{0}/books?include-chapters=true".format(translations[UBG]),
