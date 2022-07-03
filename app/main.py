@@ -187,7 +187,7 @@ async def deut(ctx: interactions.CommandContext):
                          interactions.Choice(name="Nie jestem pewny czego szukam", value=1),
                          interactions.Choice(name="Nie mam pojęcia czego szukam", value=2),
                      ],
-                     required=true,
+                     required=True,
                  ),
                  interactions.Option(
                      name="tlumaczenie",
