@@ -286,7 +286,7 @@ async def skroty(ctx: interactions.CommandContext, ksiega: str):
                  ),
              ],
              )
-async def wersy(ctx: interactions.CommandContext, ksiega: str, rozdzial: int, wersy: str, , tlumaczenie: str = UBG):
+async def wersy(ctx: interactions.CommandContext, ksiega: str, rozdzial: int, wersy: str, tlumaczenie: str = UBG):
     try:
         wersy = Verses(user_input=wersy)
         data = get_verses(ksiega.lower(), rozdzial, wersy, tlumaczenie)
