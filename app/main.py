@@ -187,7 +187,7 @@ async def deut(ctx: interactions.CommandContext):
                          interactions.Choice(name="Nie jestem pewny czego szukam", value=1),
                          interactions.Choice(name="Nie mam pojęcia czego szukam", value=2),
                      ],
-                     required=False,
+                     required=true,
                  ),
                  interactions.Option(
                      name="tlumaczenie",
@@ -203,7 +203,7 @@ async def deut(ctx: interactions.CommandContext):
                  ),
              ],
              )
-async def szukaj(ctx: interactions.CommandContext, szukam: str, dokladnosc: int, tlumaczenie: str):
+async def szukaj(ctx: interactions.CommandContext, szukam: str, dokladnosc: int, tlumaczenie: str = UBG):
         data = search_using_api(szukam, dokladnosc, tlumaczenie)
         if isinstance(data, httpx.Response):
             logger.debug(data.json())
@@ -286,7 +286,7 @@ async def skroty(ctx: interactions.CommandContext, ksiega: str):
                  ),
              ],
              )
-async def wersy(ctx: interactions.CommandContext, ksiega: str, rozdzial: int, wersy: str, tlumaczenie: str = "Uwspółcześniona Biblia Gdańska"):
+async def wersy(ctx: interactions.CommandContext, ksiega: str, rozdzial: int, wersy: str, , tlumaczenie: str = UBG):
     try:
         wersy = Verses(user_input=wersy)
         data = get_verses(ksiega.lower(), rozdzial, wersy, tlumaczenie)
